@@ -1,4 +1,4 @@
-# 🚀 Product CRUD API
+# Product CRUD API
 
 API RESTful desenvolvida com **Spring Boot** para gerenciamento de produtos, permitindo operações completas de **CRUD (Create, Read, Update, Delete)**.
 
